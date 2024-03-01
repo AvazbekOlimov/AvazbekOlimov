@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Avazbek Olimov</h1>
 <h3 align="center">A passionate Software Developer from Uzbekistan</h3>
 
+## 🔥 Streak stats
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sardor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sardoralgoritm&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avazbekolimov" alt="avazbekolimov" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Music Player**
-
-- 🌱 I’m currently learning **ReactJS and .Net**
-
-- 👯 I’m looking to collaborate on **dot-net uz book**
-
-- 📫 How to reach me **olimovavazbeka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
